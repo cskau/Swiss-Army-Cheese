@@ -1,5 +1,7 @@
 # Swiss-Army-Cheese
 
+A (will) do-it-all app to make Android app development and debugging easier.
+
 
 ## Building and installing
 
